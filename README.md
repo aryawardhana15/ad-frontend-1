@@ -1,6 +1,4 @@
-# Mission 3 Frontend Application
 
-This is the frontend application for Mission 3, deployed on Vercel.
 
 ## Live Demo
 
