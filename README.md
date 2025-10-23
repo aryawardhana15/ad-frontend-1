@@ -1,0 +1,1 @@
+VITE_API_BASE_URL=https://67f8a8012466325443ed4b3c.mockapi.io
